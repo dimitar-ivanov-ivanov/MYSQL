@@ -1,0 +1,1 @@
+SELECT salary FROM hotel.employees

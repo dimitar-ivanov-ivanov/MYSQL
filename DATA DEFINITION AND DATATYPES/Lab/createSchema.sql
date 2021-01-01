@@ -1,0 +1,1 @@
+create schema gamebar character set utf8;
